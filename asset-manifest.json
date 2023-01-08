@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer-reviews-slider/static/css/main.b8e6acda.css",
+    "main.js": "/customer-reviews-slider/static/js/main.3f8d8fc0.js",
+    "index.html": "/customer-reviews-slider/index.html",
+    "main.b8e6acda.css.map": "/customer-reviews-slider/static/css/main.b8e6acda.css.map",
+    "main.3f8d8fc0.js.map": "/customer-reviews-slider/static/js/main.3f8d8fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e6acda.css",
+    "static/js/main.3f8d8fc0.js"
+  ]
+}
